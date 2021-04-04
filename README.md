@@ -3,6 +3,6 @@
 
 Tableau Visualization - Citi Bike Analytics
 
-Includes: Basic maps, advanced dynamic maps, storyboard
+Utilization data from New York City's bike sharing program is analyzed and visualized in Tableau to find phenomena.  
 
 
