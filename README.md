@@ -6,7 +6,7 @@
 ### Overview
 Citi Bike is a privately owned public bicycle sharing system serving the New York City and its boroughs. It was founded in 2013. Utilization data from New York City's bike sharing program is publicly available and in this project is analyzed and visualized in Tableau to find phenomena for the period between 2013 and 2019.
 
-For optimum presentation and understanding to a wide audience that can also include non-data analysts, the visualizations include individual visualizations of phenomenon, Maps and dynamic maps, dashboards and storyboards. 
+For optimum presentation and understanding to a wide audience that can also include non-data analysts, the visualizations include individual visualizations of phenomenon, maps including dynamic maps, dashboards and storyboards. 
 
 Here the full list and sample images:
 
@@ -15,9 +15,9 @@ Here the full list and sample images:
 -Total trips taken in 2013 and 2019<br/>
 -Age of Riders 2013<br/>
 -Age of Riders 2019<br/>
--2019 Average ride by age<br/>
--Peak times in January 2019<br/>
--Peak times in June 2013<br/>
+-2019 Average Ride by Age<br/>
+-Peak Times in January 2019<br/>
+-Peak Times in June 2013<br/>
 <br/>
 *image: Total trips taken in 2013 and 2019*
 <br/>
@@ -41,7 +41,7 @@ Here the full list and sample images:
 -Analysis<br/>
 <br/>
 
-*image: Dashboard - Growth*
+*image: Dashboard - Growth*<br/>
 <br/>
 ![Main Menu](./images/Dashboard1.jpg?raw=true "Dashboard")
 <br/>
